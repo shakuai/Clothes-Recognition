@@ -386,7 +386,7 @@ Below are example HTTP requests for Python, PHP, and Node.js that can also be ex
 
     ```
         
-- **SDK Integration**
+### 2. SDK Integration
   
   For simpler and faster integration, you can test directly on the Dashboard or use the Python package.
   - [Shaku Dashboard - Login & Test](https://dashboard.shaku.tech/auth/login)
