@@ -57,7 +57,6 @@ The model is trained on large-scale datasets of fashion imagery and supports a w
 
 ### 1. API Integration
 The Clothes Recognition (Auto Tagging) API by Shaku enables developers to automatically analyze clothing images and extract meaningful fashion attributes in real-time. It’s designed for e-commerce platforms, virtual try-on systems, fashion analytics tools, and inventory management systems that require precise and scalable clothing recognition.
-
 The API can detect multiple attributes from a single image. With a simple HTTP request, you can integrate advanced fashion intelligence into your applications.
 
 Developers can easily connect via RESTful API calls, send image URLs or base64-encoded images, and receive structured JSON responses with detected tags.
