@@ -432,7 +432,6 @@ This intelligent tagging system enhances the shopping experience by helping user
 ## Resources
 
 - Official website: [Shaku.tech](https://shaku.tech)
-- GitHub Repository: [https://github.com/shakuai/clothes_recognition](https://github.com/shakuai/Clothes-Recognition)
 - Documentation: [[API Reference]](https://api.shaku.tech/docs.html)
 
 
