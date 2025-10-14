@@ -2,7 +2,7 @@
 
 **AI-Powered Clothes Recognition from 2D Images**
 
-The **Shaku Clothes Recognition (Auto-Tagging)** API is an intelligent service that uses computer vision and deep learning models to automatically detect and tag clothing items in an image. It identifies multiple attributes such as clothing type, color, pattern, sleeve length, collar style, material, and overall style.
+The **Shaku Clothes Recognition (Auto-Tagging)** API is an intelligent service that uses computer vision and deep learning models to automatically detect and tag clothing items in an image. It identifies multiple attributes such as clothing type, color, pattern, sleeve length, neckline, and whether the top-body cloth is cropped or not.
 
 This solution helps e-commerce platforms, apparel retailers, and virtual fitting systems automatically label clothing items, standardize catalog data, improve search and recommendation systems, and enhance user experience.
 
