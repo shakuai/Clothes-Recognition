@@ -419,7 +419,7 @@ Shaku offers a cost-effective and scalable solution that provides maximum featur
 
 ## Application
 
-Shaku also offers a mobile application that brings AI-powered clothes recognition directly to users’ smartphones. The app enables users to capture or upload clothing images and instantly receive automatic tags describing the garment’s type, color, pattern, style, and fit.
+Shaku also offers a mobile application that brings AI-powered clothes recognition directly to users’ smartphones. The app enables users to capture or upload clothing images and instantly receive automatic tags describing the garment’s type, color, pattern, and more.
 
 This intelligent tagging system enhances the shopping experience by helping users easily identify, categorize, and explore similar items. Retailers and fashion platforms can integrate the app as a companion tool, allowing customers to discover products visually and receive style recommendations on the go.
 
