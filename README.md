@@ -427,8 +427,7 @@ This intelligent tagging system enhances the shopping experience by helping user
 
 ## Privacy & Data Handling
 
-- All communication is via HTTPS (TLS 1.2+).
-- Uploaded images are processed and deleted immediately after inference unless otherwise configured.
+- Uploaded images are processed and deleted immediately after inference.
 - No personal data is stored or shared.
 
 ## Resources
