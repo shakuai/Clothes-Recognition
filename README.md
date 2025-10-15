@@ -174,8 +174,7 @@ Below are example HTTP requests for Python, PHP, and Node.js that can also be ex
       })
       headers = {
         'Content-Type': 'application/json',
-        'Accept': 'application/json',
-        'Cookie': 'shaku_session=N3tqPfDYa4oCHa1YBkWLIfHoiuJ7LvuRIZZ0Kbna'
+        'Accept': 'application/json'
       }
       
       response = requests.request("POST", url, headers=headers, data=payload)
@@ -207,8 +206,7 @@ Below are example HTTP requests for Python, PHP, and Node.js that can also be ex
       }',
         CURLOPT_HTTPHEADER => array(
           'Content-Type: application/json',
-          'Accept: application/json',
-          'Cookie: shaku_session=N3tqPfDYa4oCHa1YBkWLIfHoiuJ7LvuRIZZ0Kbna'
+          'Accept: application/json'
         ),
       ));
       
@@ -227,8 +225,7 @@ Below are example HTTP requests for Python, PHP, and Node.js that can also be ex
         'url': 'https://api.shaku.tech/oauth/token',
         'headers': {
           'Content-Type': 'application/json',
-          'Accept': 'application/json',
-          'Cookie': 'shaku_session=N3tqPfDYa4oCHa1YBkWLIfHoiuJ7LvuRIZZ0Kbna'
+          'Accept': 'application/json'
         },
         body: JSON.stringify({
           "grant_type": "refresh_token",
@@ -256,8 +253,7 @@ Below are example HTTP requests for Python, PHP, and Node.js that can also be ex
        
        payload = ""
        headers = {
-         'Authorization': 'Bearer YOUR_ACCESS_TOKEN',
-         'Cookie': 'shaku_session=oQhS4k3h5QBHs77YoGVKhEwsWmtu8E48lr4sTimt'
+         'Authorization': 'Bearer YOUR_ACCESS_TOKEN'
        }
        
        response = requests.request("GET", url, headers=headers, data=payload)
